@@ -6,8 +6,6 @@
 This team project is part of the first year curriculum of ALX.
 _printf replicates the C standard library printf() function.
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb18zkbUefxh6MAQSOfV_9X9i2HMUVvUloLQ&usqp=CAU)
-
 What you should learn from this project:
 
 * How to use git in a team setting
